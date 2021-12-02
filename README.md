@@ -11,7 +11,7 @@ WiDS Fremont will take place over a period of 12 weeks from start of Janurary to
 
 Follow us on <a href="https://www.eventbrite.com/o/37976859083" target="_blank">EventBrite</a> and join us on <a href="https://www.linkedin.com/wids-at-fremont" target="_blank">LinkedIn</a> to get updates on event registration. Check it out below!
 
-- <strong>Fireside Chat on 01/04/21</strong> 
+- <strong>Fireside Chat on 01/14/2022</strong> 
   - <a href="https://www.linkedin.com/in/anita-sarkar-3556793">Anita Sarkar</a>, Director, Conversational AI Technology at Ally
   - <a href="https://www.linkedin.com/in/hardi-desai" target="_blank">Hardi Desai</a>, Machine Learning Developer at SAS
   - Moderator: <a href="https://www.linkedin.com/in/dhwanikillawala" target="_blank">Dhwani Killawala</a>, Data Scientist at Anthem Inc.
