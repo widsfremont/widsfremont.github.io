@@ -7,27 +7,18 @@ WiDS Fremont will take place over a period of 12 weeks from start of Janurary to
 
 <br>
 
-### Series Schedule ()
+### Series Schedule
 
-Follow us on <a href="https://www.eventbrite.com/" target="_blank">EventBrite</a> and join us on <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> to get updates on event registration. Check it out below!
+Follow us on <a href="https://www.eventbrite.com/o/37976859083" target="_blank">EventBrite</a> and join us on <a href="https://www.linkedin.com/wids-at-fremont" target="_blank">LinkedIn</a> to get updates on event registration. Check it out below!
 
-- <strong>Alphs</strong> 
-  - <a href="https://www.linkedin.com/" target="_blank">HArdi Desai</a>, Machine Learning Consultant
-  - <a href="https://www.linkedin.com/">Dhwani Killawala</a>, Data Scientist"
-  - Moderator: <a href="https://www.linkedin.com/" target="_blank">Dhwani Killawala</a>, Data Scientist
+- <strong>Fireside Chat</strong> 
+  - <a href="https://www.linkedin.com/in/anita-sarkar-3556793">Anita Sarkar</a>, Director, Conversational AI Technology at Ally"
+  - <a href="https://www.linkedin.com/in/hardi-desai" target="_blank">Hardi Desai</a>, Machine Learning Developer at SAS
+  - Moderator: <a href="https://www.linkedin.com/in/dhwanikillawala" target="_blank">Dhwani Killawala</a>, Data Scientist at Anthem Inc.
 
-<br>
-
-### Sponsors
-
-A big thank you to our sponsors for making WiDS Fremont possible.
-
-
-
-<br>
 
 ### Organizers
 
-This WiDS event series is brought to you by the following WiDS 2021 Fremont ambassadors:
+This WiDS event series is brought to you by the following WiDS 2022 Fremont ambassador:
 
-- <a href="https://www.linkedin.com/" target="_blank">Dhwani Killawala</a>, WiDS Fremont
+- <a href="https://www.linkedin.com/in/dhwanikillawala" target="_blank">Dhwani Killawala</a>, WiDS Fremont
