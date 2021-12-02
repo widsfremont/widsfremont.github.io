@@ -1,0 +1,17 @@
+# Site settings
+theme: jekyll-theme-minimal
+title: WiDS Fremont 2022
+logo: images/wids-2color-stacked.jpg
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
